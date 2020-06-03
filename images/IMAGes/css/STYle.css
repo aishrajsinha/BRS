@@ -1,0 +1,146 @@
+body {
+color: #303960;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-size: 562.5%;
+margin: 50px auto 0 auto;
+ color: #66BFBF;
+  width: 11%;
+  text-align: center;
+ font-family: Sacramento;
+}
+
+p {
+ line-height: 2;
+}
+
+.contact {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+
+}
+
+
+.intro {
+  width: 30%;
+  margin: auto auto auto auto;
+}
+
+
+.middle-container {
+margin: 100px;
+
+}
+
+
+a {
+color: #AACFCF;
+font-family: 'Montserrat', sans-serif;
+margin: 10px 20px;
+text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
+
+.headerp{
+  color: #66BFBF;
+  font-weight: normal;
+  font-size: 2rem;
+}
+/* COMMENT */
+.top {
+  background-color: #e0ebe8;
+  position: relative;
+  padding-top: 100px;
+
+}
+/* COMMENT */
+.pro {
+  text-decoration: underline;
+  text-align: center;
+}
+/* COMMENT */
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 500px;
+}
+
+/* COMMENT */
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align:  left;
+
+}
+
+.photo {
+float: left;
+margin-right: 30px;
+  width: 25%;
+
+
+}
+
+.gif {
+  float: right;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.bottom-container {
+  background-color: #85A392;
+  padding:50px 0 20px;
+}
+
+.copyright {
+  color: white;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
+
+copyright: hover {
+  color: grey;
+}
+
+
+.btn {
+	box-shadow: 3px 4px 0px 0px #698474;
+	background-color:#85A392;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:8px 17px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #698474;
+}
+.btn:hover {
+	background-color: #9DC6A7;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
